@@ -1,0 +1,25 @@
+{
+  "name": "developer-portfolio",
+  "version": "1.0.0",
+  "description": "Professional modern minimal web developer portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite --open",
+    "start": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "web-development",
+    "html5",
+    "css3",
+    "javascript"
+  ],
+  "author": "Alex Morgan",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.1.0"
+  }
+}

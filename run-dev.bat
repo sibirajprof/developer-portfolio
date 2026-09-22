@@ -1,0 +1,3 @@
+@echo off
+echo Starting Developer Portfolio Dev Environment...
+start "" "index.html"
